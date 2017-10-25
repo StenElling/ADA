@@ -1,0 +1,201 @@
+,Name,THE_Rank,Country,url,stats_student_staff_ratio,stats_pc_intl_students,Region,THE_Rank_unique
+0,University of Oxford,1,United Kingdom,/world-university-rankings/university-oxford,11.2,38,Europe,1
+1,University of Cambridge,2,United Kingdom,/world-university-rankings/university-cambridge,10.9,35,Europe,2
+2,California Institute of Technology,=3,United States,/world-university-rankings/california-institute-technology,6.5,27,North America,3
+3,Stanford University,=3,United States,/world-university-rankings/stanford-university,7.5,22,North America,4
+4,Massachusetts Institute of Technology,5,United States,/world-university-rankings/massachusetts-institute-technology,8.7,34,North America,5
+5,Harvard University,6,United States,/world-university-rankings/harvard-university,8.9,26,North America,6
+6,Princeton University,7,United States,/world-university-rankings/princeton-university,8.3,24,North America,7
+7,Imperial College London,8,United Kingdom,/world-university-rankings/imperial-college-london,11.4,55,Europe,8
+8,University of Chicago,9,United States,/world-university-rankings/university-chicago,6.2,25,North America,9
+9,ETH Zurich – Swiss Federal Institute of Technology Zurich,=10,Switzerland,/world-university-rankings/eth-zurich-swiss-federal-institute-technology-zurich,14.6,38,Europe,10
+10,University of Pennsylvania,=10,United States,/world-university-rankings/university-pennsylvania,6.5,20,North America,11
+11,Yale University,12,United States,/world-university-rankings/yale-university,4.3,21,North America,12
+12,Johns Hopkins University,13,United States,/world-university-rankings/johns-hopkins-university,4.3,24,North America,13
+13,Columbia University,14,United States,/world-university-rankings/columbia-university,6.1,32,North America,14
+14,"University of California, Los Angeles",15,United States,/world-university-rankings/university-california-los-angeles,9.6,17,North America,15
+15,University College London,16,United Kingdom,/world-university-rankings/university-college-london,10.5,49,Europe,16
+16,Duke University,17,United States,/world-university-rankings/duke-university,4.5,22,North America,17
+17,"University of California, Berkeley",18,United States,/world-university-rankings/university-california-berkeley,13.1,17,North America,18
+18,Cornell University,19,United States,/world-university-rankings/cornell-university,9.8,24,North America,19
+19,Northwestern University,20,United States,/world-university-rankings/northwestern-university,12.8,18,North America,20
+20,University of Michigan,21,United States,/world-university-rankings/university-michigan,8.6,16,North America,21
+21,National University of Singapore,=22,Singapore,/world-university-rankings/national-university-singapore,17.0,30,Asia,22
+22,University of Toronto,=22,Canada,/world-university-rankings/university-toronto,18.7,17,North America,23
+23,Carnegie Mellon University,24,United States,/world-university-rankings/carnegie-mellon-university,13.5,45,North America,24
+24,London School of Economics and Political Science,=25,United Kingdom,/world-university-rankings/london-school-economics-and-political-science,12.2,71,Europe,25
+25,University of Washington,=25,United States,/world-university-rankings/university-washington,11.4,16,North America,26
+26,University of Edinburgh,=27,United Kingdom,/world-university-rankings/university-edinburgh,12.5,40,Europe,27
+27,New York University,=27,United States,/world-university-rankings/new-york-university,9.6,26,North America,28
+28,Peking University,=27,China,/world-university-rankings/peking-university,8.9,16,Asia,29
+29,Tsinghua University,30,China,/world-university-rankings/tsinghua-university,13.7,9,Asia,30
+30,"University of California, San Diego",31,United States,/world-university-rankings/university-california-san-diego,12.8,17,North America,31
+31,University of Melbourne,32,Australia,/world-university-rankings/university-melbourne,26.6,40,Oceania,32
+32,Georgia Institute of Technology,33,United States,/world-university-rankings/georgia-institute-technology,20.7,27,North America,33
+33,University of British Columbia,=34,Canada,/world-university-rankings/university-british-columbia,18.1,29,North America,34
+34,LMU Munich,=34,Germany,/world-university-rankings/lmu-munich,15.6,15,Europe,35
+35,King’s College London,36,United Kingdom,/world-university-rankings/kings-college-london,12.0,41,Europe,36
+36,University of Illinois at Urbana-Champaign,37,United States,/world-university-rankings/university-illinois-urbana-champaign,22.8,23,North America,37
+37,École Polytechnique Fédérale de Lausanne,=38,Switzerland,/world-university-rankings/ecole-polytechnique-federale-de-lausanne,11.2,55,Europe,38
+38,Karolinska Institute,=38,Sweden,/world-university-rankings/karolinska-institute,10.9,19,Europe,39
+39,University of Hong Kong,40,Hong Kong,/world-university-rankings/university-hong-kong,18.0,42,Asia,40
+40,Technical University of Munich,41,Germany,/world-university-rankings/technical-university-munich,54.4,23,Europe,41
+41,McGill University,42,Canada,/world-university-rankings/mcgill-university,13.3,26,North America,42
+42,University of Wisconsin-Madison,43,United States,/world-university-rankings/university-wisconsin-madison,10.7,12,North America,43
+43,Hong Kong University of Science and Technology,44,Hong Kong,/world-university-rankings/hong-kong-university-science-and-technology,23.1,31,Asia,44
+44,Heidelberg University,45,Germany,/world-university-rankings/heidelberg-university-0,23.2,17,Europe,45
+45,University of Tokyo,46,Japan,/world-university-rankings/university-tokyo,6.7,10,Asia,46
+46,KU Leuven,47,Belgium,/world-university-rankings/ku-leuven,37.1,15,Europe,47
+47,Australian National University,48,Australia,/world-university-rankings/australian-national-university,19.3,35,Oceania,48
+48,University of Texas at Austin,49,United States,/world-university-rankings/university-texas-austin,17.1,10,North America,49
+49,Brown University,=50,United States,/world-university-rankings/brown-university,10.7,20,North America,50
+50,Washington University in St Louis,=50,United States,/world-university-rankings/washington-university-st-louis,7.5,17,North America,51
+51,"Nanyang Technological University, Singapore",52,Singapore,/world-university-rankings/nanyang-technological-university-singapore,16.3,31,Asia,52
+52,"University of California, Santa Barbara",53,United States,/world-university-rankings/university-california-santa-barbara,28.1,14,North America,53
+53,"University of California, Davis",=54,United States,/world-university-rankings/university-california-davis,13.8,10,North America,54
+54,University of Manchester,=54,United Kingdom,/world-university-rankings/university-manchester,14.6,38,Europe,55
+55,University of Minnesota,=56,United States,/world-university-rankings/university-minnesota-0,17.4,11,North America,56
+56,University of North Carolina at Chapel Hill,=56,United States,/world-university-rankings/university-north-carolina-chapel-hill,9.7,8,North America,57
+57,Chinese University of Hong Kong,58,Hong Kong,/world-university-rankings/chinese-university-hong-kong,17.3,31,Asia,58
+58,University of Amsterdam,59,Netherlands,/world-university-rankings/university-amsterdam,12.3,12,Europe,59
+59,Purdue University,60,United States,/world-university-rankings/purdue-university,17.4,23,North America,60
+60,University of Sydney,61,Australia,/world-university-rankings/university-sydney,21.6,32,Oceania,61
+61,Humboldt University of Berlin,62,Germany,/world-university-rankings/humboldt-university-berlin,56.5,17,Europe,62
+62,Delft University of Technology,63,Netherlands,/world-university-rankings/delft-university-technology,19.6,27,Europe,63
+63,Wageningen University & Research,64,Netherlands,/world-university-rankings/wageningen-university-research,19.7,29,Europe,64
+64,University of Queensland,65,Australia,/world-university-rankings/university-queensland,35.7,26,Oceania,65
+65,University of Southern California,66,United States,/world-university-rankings/university-southern-california,12.8,23,North America,66
+66,Leiden University,67,Netherlands,/world-university-rankings/leiden-university,18.2,12,Europe,67
+67,Utrecht University,68,Netherlands,/world-university-rankings/utrecht-university,15.2,7,Europe,68
+68,"University of Maryland, College Park",69,United States,/world-university-rankings/university-maryland-college-park,16.5,10,North America,69
+69,Boston University,=70,United States,/world-university-rankings/boston-university,8.6,25,North America,70
+70,Ohio State University,=70,United States,/world-university-rankings/ohio-state-university,12.7,13,North America,71
+71,Erasmus University Rotterdam,=72,Netherlands,/world-university-rankings/erasmus-university-rotterdam,20.1,20,Europe,72
+72,Paris Sciences et Lettres – PSL Research University Paris,=72,France,/world-university-rankings/paris-sciences-et-lettres-psl-research-university-paris,10.1,25,Europe,73
+73,Kyoto University,=74,Japan,/world-university-rankings/kyoto-university,8.7,8,Asia,74
+74,Seoul National University,=74,South Korea,/world-university-rankings/seoul-national-university,12.6,11,Asia,75
+75,University of Bristol,76,United Kingdom,/world-university-rankings/university-bristol,13.7,27,Europe,76
+76,Pennsylvania State University,77,United States,/world-university-rankings/pennsylvania-state-university,15.2,14,North America,77
+77,McMaster University,78,Canada,/world-university-rankings/mcmaster-university,24.7,15,North America,78
+78,RWTH Aachen University,79,Germany,/world-university-rankings/rwth-aachen-university,57.7,18,Europe,79
+79,University of Glasgow,=80,United Kingdom,/world-university-rankings/university-glasgow,15.4,36,Europe,80
+80,Monash University,=80,Australia,/world-university-rankings/monash-university,33.7,28,Oceania,81
+81,University of Freiburg,82,Germany,/world-university-rankings/university-freiburg,40.3,19,Europe,82
+82,University of Groningen,=83,Netherlands,/world-university-rankings/university-groningen,24.1,17,Europe,83
+83,Michigan State University,=83,United States,/world-university-rankings/michigan-state-university,17.0,17,North America,84
+84,University of New South Wales,85,Australia,/world-university-rankings/university-new-south-wales,26.7,34,Oceania,85
+85,Rice University,=86,United States,/world-university-rankings/rice-university,9.0,28,North America,86
+86,Uppsala University,=86,Sweden,/world-university-rankings/uppsala-university,17.3,11,Europe,87
+87,Free University of Berlin,88,Germany,/world-university-rankings/free-university-berlin,57.0,21,Europe,88
+88,Dartmouth College,89,United States,/world-university-rankings/dartmouth-college,6.6,15,North America,89
+89,University of Helsinki,90,Finland,/world-university-rankings/university-helsinki,16.2,6,Europe,90
+90,University of Warwick,91,United Kingdom,/world-university-rankings/university-warwick,13.0,39,Europe,91
+91,Technical University of Berlin,92,Germany,/world-university-rankings/technical-university-berlin,64.3,20,Europe,92
+92,Lund University,93,Sweden,/world-university-rankings/lund-university,12.1,16,Europe,93
+93,University of Tübingen,94,Germany,/world-university-rankings/university-tubingen,38.5,13,Europe,94
+94,University of Basel,=95,Switzerland,/world-university-rankings/university-basel,17.7,27,Europe,95
+95,Korea Advanced Institute of Science and Technology (KAIST),=95,South Korea,/world-university-rankings/korea-advanced-institute-science-and-technology-kaist,10.6,9,Asia,96
+96,Durham University,97,United Kingdom,/world-university-rankings/durham-university,14.9,29,Europe,97
+97,Emory University,98,United States,/world-university-rankings/emory-university,4.4,19,North America,98
+98,"University of California, Irvine",99,United States,/world-university-rankings/university-california-irvine,17.0,21,North America,99
+99,University of Bonn,=100,Germany,/world-university-rankings/university-bonn,77.9,13,Europe,100
+100,University of Colorado Boulder,=100,United States,/world-university-rankings/university-colorado-boulder,16.3,10,North America,101
+101,University of Pittsburgh,=100,United States,/world-university-rankings/university-pittsburgh,5.9,10,North America,102
+102,Maastricht University,103,Netherlands,/world-university-rankings/maastricht-university,18.0,50,Europe,103
+103,University of Sheffield,104,United Kingdom,/world-university-rankings/university-sheffield,14.9,36,Europe,104
+104,University of Bern,=105,Switzerland,/world-university-rankings/university-bern,16.5,15,Europe,105
+105,Vanderbilt University,=105,United States,/world-university-rankings/vanderbilt-university,3.3,13,North America,106
+106,Ghent University,107,Belgium,/world-university-rankings/ghent-university,35.9,10,Europe,107
+107,University of Montreal,108,Canada,/world-university-rankings/university-montreal,21.9,22,North America,108
+108,Aarhus University,=109,Denmark,/world-university-rankings/aarhus-university,14.3,12,Europe,109
+109,University of Copenhagen,=109,Denmark,/world-university-rankings/university-copenhagen,4.1,14,Europe,110
+110,Sungkyunkwan University (SKKU),=111,South Korea,/world-university-rankings/sungkyunkwan-university-skku,19.6,12,Asia,111
+111,University of Western Australia,=111,Australia,/world-university-rankings/university-western-australia,21.8,25,Oceania,112
+112,University of Göttingen,=113,Germany,/world-university-rankings/university-gottingen,27.9,12,Europe,113
+113,University of Virginia,=113,United States,/world-university-rankings/university-virginia,9.7,12,North America,114
+114,École Polytechnique,115,France,/world-university-rankings/ecole-polytechnique,5.1,36,Europe,115
+115,Fudan University,116,China,/world-university-rankings/fudan-university,12.1,10,Asia,116
+116,Indiana University,=117,United States,/world-university-rankings/indiana-university,14.1,15,North America,117
+117,Trinity College Dublin,=117,Ireland,/world-university-rankings/trinity-college-dublin,22.8,27,Europe,118
+118,University of Alberta,=119,Canada,/world-university-rankings/university-alberta,21.6,26,North America,119
+119,City University of Hong Kong,=119,Hong Kong,/world-university-rankings/city-university-hong-kong,11.2,35,Asia,120
+120,Queen Mary University of London,121,United Kingdom,/world-university-rankings/queen-mary-university-london,13.3,45,Europe,121
+121,Radboud University Nijmegen,122,Netherlands,/world-university-rankings/radboud-university-nijmegen,19.1,12,Europe,122
+122,Georgetown University,=123,United States,/world-university-rankings/georgetown-university,8.6,17,North America,123
+123,Pierre and Marie Curie University,=123,France,/world-university-rankings/pierre-and-marie-curie-university,12.3,20,Europe,124
+124,University of Mannheim,125,Germany,/world-university-rankings/university-mannheim,74.5,16,Europe,125
+125,Arizona State University,=126,United States,/world-university-rankings/arizona-state-university,20.1,19,North America,126
+126,Charité - Universitätsmedizin Berlin,=126,Germany,/world-university-rankings/charite-universitatsmedizin-berlin,16.2,18,Europe,127
+127,University of Southampton,=126,United Kingdom,/world-university-rankings/university-southampton,12.5,33,Europe,128
+128,Université Catholique de Louvain,129,Belgium,/world-university-rankings/universite-catholique-de-louvain,37.8,19,Europe,129
+129,University of Exeter,=130,United Kingdom,/world-university-rankings/university-exeter,17.5,28,Europe,130
+130,University of Geneva,=130,Switzerland,/world-university-rankings/university-geneva,15.1,40,Europe,131
+131,University of Science and Technology of China,132,China,/world-university-rankings/university-science-and-technology-china,8.2,3,Asia,132
+132,Karlsruhe Institute of Technology,133,Germany,/world-university-rankings/karlsruhe-institute-technology,26.3,18,Europe,133
+133,University of Adelaide,=134,Australia,/world-university-rankings/university-adelaide,34.3,26,Oceania,134
+134,Stockholm University,=134,Sweden,/world-university-rankings/stockholm-university,24.9,8,Europe,135
+135,University of Zurich,136,Switzerland,/world-university-rankings/university-zurich,5.9,20,Europe,136
+136,Pohang University of Science and Technology,=137,South Korea,/world-university-rankings/pohang-university-science-and-technology,10.4,4,Asia,137
+137,University of York,=137,United Kingdom,/world-university-rankings/university-york,15.1,27,Europe,138
+138,University of Leeds,139,United Kingdom,/world-university-rankings/university-leeds,14.7,26,Europe,139
+139,Pompeu Fabra University,140,Spain,/world-university-rankings/pompeu-fabra-university,20.8,12,Europe,140
+140,University of Birmingham,=141,United Kingdom,/world-university-rankings/university-birmingham,15.0,27,Europe,141
+141,Eindhoven University of Technology,=141,Netherlands,/world-university-rankings/eindhoven-university-technology,18.6,17,Europe,142
+142,University of Florida,=143,United States,/world-university-rankings/university-florida,17.5,9,North America,143
+143,University of St Andrews,=143,United Kingdom,/world-university-rankings/university-st-andrews,13.0,48,Europe,144
+144,University of Cologne,145,Germany,/world-university-rankings/university-cologne-0,50.9,10,Europe,145
+145,University of Oslo,146,Norway,/world-university-rankings/university-oslo,18.6,19,Europe,146
+146,Autonomous University of Barcelona,=147,Spain,/world-university-rankings/autonomous-university-barcelona,12.9,16,Europe,147
+147,University of Nottingham,=147,United Kingdom,/world-university-rankings/university-nottingham,14.0,30,Europe,148
+148,University of Sussex,=147,United Kingdom,/world-university-rankings/university-sussex,15.4,38,Europe,149
+149,Lancaster University,=150,United Kingdom,/world-university-rankings/lancaster-university,13.1,38,Europe,150
+150,University of Notre Dame,=150,United States,/world-university-rankings/university-notre-dame-0,13.4,11,North America,151
+151,University of Lausanne,152,Switzerland,/world-university-rankings/university-lausanne,13.6,25,Europe,152
+152,Technical University of Denmark,=153,Denmark,/world-university-rankings/technical-university-denmark,6.0,24,Europe,153
+153,University of Rochester,=153,United States,/world-university-rankings/university-rochester,4.3,29,North America,154
+154,Scuola Superiore Sant’Anna,=155,Italy,/world-university-rankings/scuola-superiore-santanna,11.7,14,Europe,155
+155,TU Dresden,=155,Germany,/world-university-rankings/tu-dresden,35.9,13,Europe,156
+156,Ulm University,=155,Germany,/world-university-rankings/ulm-university,28.4,13,Europe,157
+157,Case Western Reserve University,158,United States,/world-university-rankings/case-western-reserve-university,7.1,19,North America,158
+158,University of Leicester,=159,United Kingdom,/world-university-rankings/university-leicester,14.1,38,Europe,159
+159,Texas A&M University,=159,United States,/world-university-rankings/texas-am-university,23.6,9,North America,160
+160,University of Arizona,161,United States,/world-university-rankings/university-arizona,13.0,9,North America,161
+161,"University of California, Santa Cruz",=162,United States,/world-university-rankings/university-california-santa-cruz,23.0,4,North America,162
+162,Cardiff University,=162,United Kingdom,/world-university-rankings/cardiff-university,13.5,26,Europe,163
+163,University of Erlangen-Nuremberg,=162,Germany,/world-university-rankings/university-erlangen-nuremberg,58.5,12,Europe,164
+164,University of Vienna,=165,Austria,/world-university-rankings/university-vienna,20.8,26,Europe,165
+165,Vrije Universiteit Amsterdam,=165,Netherlands,/world-university-rankings/vrije-universiteit-amsterdam,18.1,7,Europe,166
+166,University of Würzburg,=165,Germany,/world-university-rankings/university-wurzburg,33.9,9,Europe,167
+167,University of Alabama at Birmingham,168,United States,/world-university-rankings/university-alabama-birmingham,15.2,6,North America,168
+168,Nanjing University,=169,China,/world-university-rankings/nanjing-university,14.2,10,Asia,169
+169,Tufts University,=169,United States,/world-university-rankings/tufts-university,9.3,16,North America,170
+170,University of Cape Town,171,South Africa,/world-university-rankings/university-cape-town,11.7,18,Africa,171
+171,"Rutgers, the State University of New Jersey",172,United States,/world-university-rankings/rutgers-state-university-new-jersey-0,11.1,10,North America,172
+172,KTH Royal Institute of Technology,=173,Sweden,/world-university-rankings/kth-royal-institute-technology,16.0,17,Europe,173
+173,University of Münster,=173,Germany,/world-university-rankings/university-munster,42.6,7,Europe,174
+174,Université Libre de Bruxelles,=175,Belgium,/world-university-rankings/universite-libre-de-bruxelles,43.4,35,Europe,175
+175,Newcastle University,=175,United Kingdom,/world-university-rankings/newcastle-university,15.6,30,Europe,176
+176,University of Liverpool,=177,United Kingdom,/world-university-rankings/university-liverpool,11.7,35,Europe,177
+177,Zhejiang University,=177,China,/world-university-rankings/zhejiang-university,14.1,6,Asia,178
+178,University of Luxembourg,=179,Luxembourg,/world-university-rankings/university-luxembourg,14.6,57,Europe,179
+179,University of Twente,=179,Netherlands,/world-university-rankings/university-twente,12.8,27,Europe,180
+180,Paris-Sud University,181,France,/world-university-rankings/paris-sud-university,14.5,16,Europe,181
+181,École Normale Supérieure de Lyon,=182,France,/world-university-rankings/ecole-normale-superieure-de-lyon,8.5,13,Europe,182
+182,Hong Kong Polytechnic University,=182,Hong Kong,/world-university-rankings/hong-kong-polytechnic-university,26.9,25,Asia,183
+183,Scuola Normale Superiore di Pisa,184,Italy,/world-university-rankings/scuola-normale-superiore-di-pisa,5.2,7,Europe,184
+184,University of Aberdeen,185,United Kingdom,/world-university-rankings/university-aberdeen,13.9,36,Europe,185
+185,University of Miami,186,United States,/world-university-rankings/university-miami,5.9,16,North America,186
+186,University of Dundee,187,United Kingdom,/world-university-rankings/university-dundee,14.9,24,Europe,187
+187,University of East Anglia,=188,United Kingdom,/world-university-rankings/university-east-anglia,13.6,30,Europe,188
+188,Shanghai Jiao Tong University,=188,China,/world-university-rankings/shanghai-jiao-tong-university,12.4,6,Asia,189
+189,Aalto University,190,Finland,/world-university-rankings/aalto-university,20.2,20,Europe,190
+190,University of Massachusetts,191,United States,/world-university-rankings/university-massachusetts,13.3,14,North America,191
+191,University of Auckland,192,New Zealand,/world-university-rankings/university-auckland,18.8,29,Oceania,192
+192,Northeastern University,193,United States,/world-university-rankings/northeastern-university,14.0,32,North America,193
+193,Lomonosov Moscow State University,194,Russian Federation,/world-university-rankings/lomonosov-moscow-state-university,7.3,22,Asia,194
+194,Tilburg University,195,Netherlands,/world-university-rankings/tilburg-university,22.5,13,Europe,195
+195,Paris-Sorbonne University – Paris 4,196,France,/world-university-rankings/paris-sorbonne-university-paris-4,30.2,15,Europe,196
+196,"Royal Holloway, University of London",197,United Kingdom,/world-university-rankings/royal-holloway-university-london,15.4,40,Europe,197
+197,"University of California, Riverside",=198,United States,/world-university-rankings/university-california-riverside,20.7,14,North America,198
+198,University of Gothenburg,=198,Sweden,/world-university-rankings/university-gothenburg,10.0,13,Europe,199
+199,National Taiwan University,=198,Taiwan,/world-university-rankings/national-taiwan-university,11.5,8,Asia,200
