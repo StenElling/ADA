@@ -20,7 +20,7 @@ Zurich is Switzerland's biggest city and a financial hub. Hence it attracts peop
 
 These datasets consistently use the same identification codes and names for local areas. Moreover attributes like civil status are fully documented on the opendata pages of the City of Zurich. 
  
-Data sets with monthly data for the period 2013 to 2017 exist as well. This data does not include civil status, has broader agae groups and only distinguishes Swiss people from foreigners. 
+Data sets with monthly data for the period 2013 to 2017 exist as well. This data does not include civil status, has broader age groups and only distinguishes Swiss people from foreigners. 
  
 We aim to enrich our data with (un)employment data from statistik.zh.ch . For these sets documentation exists as well. Other data used may be the median income for single people, couples and single parents in order to establish which local districts have a wealthier population and hence may be more affected by the changes due to the financial crisis.  
 
@@ -33,7 +33,7 @@ Carry out time series analyses of data and summarize some of main results.
 Identify interesting patterns and shifts of these over times. Compare and link the different data sets. For example link movement patterns to civil status. 
 
 Milestone week 4 (29/11)
-Look for correlations between moving patterns and local amenities (the number of school, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find sutiable ways for visualising these. 
+Look for correlations between moving patterns and local amenities (the number of schools, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find sutiable ways for visualising these. 
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
