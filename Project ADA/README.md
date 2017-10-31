@@ -6,7 +6,7 @@ Zurich is Switzerland's biggest city and a financial hub. Hence it attracts peop
 # Research questions
 1) Where do people move from/to or within the city of Zurich? 
 2) Are there patterns in these movements and do the differ according to age, gender, civil status, nationality, income? 
-3) Are moving patterns correlated to the number of school, availability of public transport, supermarkets etc?
+3) Are moving patterns correlated to the availability of local amenities like the number of schools, access to public transport, supermarkets etc?
 4) Do these patterns change over the years, in particular did the financial crisis have a noticeable impact? 
 5) How can our results be used for city planning?
 
@@ -20,7 +20,7 @@ Zurich is Switzerland's biggest city and a financial hub. Hence it attracts peop
 
 These datasets consistently use the same identification codes and names for local areas. Moreover attributes like civil status are fully documented on the opendata pages of the City of Zurich. 
  
-Data sets with monthly data for 2013 exist as well. This data does not include civil status and only distinguishes Swiss people from foreigners. 
+Data sets with monthly data for the period 2013 to 2017 exist as well. This data does not include civil status, has broader agae groups and only distinguishes Swiss people from foreigners. 
  
 We aim to enrich our data with (un)employment data from statistik.zh.ch . For these sets documentation exists as well. Other data used may be the median income for single people, couples and single parents in order to establish which local districts have a wealthier population and hence may be more affected by the changes due to the financial crisis.  
 
