@@ -12,8 +12,8 @@ How can our results be used for city planning?
 
 
 # Dataset
-1. Annual population count by local district, age group and gender (300,000) 
-2. Annual population count by local district and nationality (75,000) 
+1) Annual population count by local district, age group and gender (300,000) 
+2) Annual population count by local district and nationality (75,000) 
 3) Number of people moving to a local district from outside (Swiss canton or country) with gender, age group, civil status (500,000) 
 4) Number of people moving to a local district from within Zurich with gender, age group, civil status (300,000) 
 5) Number of people leaving a local district to outside (Swiss canton or country) with gender, age group, civil status (500,000) 
@@ -33,7 +33,7 @@ Carry out time series analyses of data and summary some of main results.
 Identify interesting patterns and shifts of these over times. Compare and link the different data sets. For example link movement patterns to civil status. 
 
 Milestone week 4 (29/11)
-Investigate some interesting patterns in more detail and find useful ways for visualising these. 
+Look for correlations between moving patterns and local amenities (the number of school, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find useful ways for visualising these. 
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
