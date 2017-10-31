@@ -6,8 +6,8 @@ Zurich is Switzerland's biggest city and a financial hub. Hence it attracts peop
 # Research questions
 1) Where do people move from/to or within the city of Zurich? 
 2) Are there patterns in these movements and do the differ according to age, gender, civil status, nationality, income? 
-3) Are moving patterns correlated to the availability of local amenities like the number of schools, access to public transport, supermarkets etc?
-4) Do these patterns change over the years, in particular did the financial crisis have a noticeable impact? 
+3) Do these patterns change over the years, in particular did the financial crisis have a noticeable impact?
+4) Are moving patterns correlated to the availability of local amenities like the number of schools, access to public transport, supermarkets etc? 
 5) How can our results be used for city planning?
 
 
@@ -26,14 +26,13 @@ We aim to enrich our data with (un)employment data from statistik.zh.ch . For th
 
 # A list of internal milestones up until project milestone 2
 Milestone week 1 (6/11)
-Aggregate the data from the website. Then analyze and clean each data set separately. Translate from German to English. 
+Aggregate the data from the website. Analyze and clean each data set. Translate data from German to English. Combine data sets were suitable into large dataframes for subsequent analysis.
 
 Milestone week 2-3 (20/11)
-Carry out time series analyses of data and summarize some of main results. 
-Identify interesting patterns and shifts of these over times. Compare and link the different data sets. For example link movement patterns to civil status. 
+Carry out time series analyses of data for different subsets of the population (e.g. grouped by age or civil status). Compare and contrast results for different subsets. Summarize some of the main results. 
+Identify interesting patterns and their changes over times. Find suitable external data sets to enrich main data frame carry out more detailed analysis.
 
 Milestone week 4 (29/11)
 Look for correlations between moving patterns and local amenities (the number of schools, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find sutiable ways for visualising these. 
 
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAs
