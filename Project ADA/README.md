@@ -29,7 +29,7 @@ Milestone week 1 (6/11)
 Aggregate the data from the website. Then analyze and clean each data set separately. Translate from German to English. 
 
 Milestone week 2-3 (20/11)
-Carry out time series analyses of data and summary some of main results. 
+Carry out time series analyses of data and summarize some of main results. 
 Identify interesting patterns and shifts of these over times. Compare and link the different data sets. For example link movement patterns to civil status. 
 
 Milestone week 4 (29/11)
