@@ -4,11 +4,11 @@ What makes people move house in Zurich?
 Zurich is Switzerland's biggest city and a financial hub. Hence it attracts people from all over Switzerland and the world. We want to find out, which factors have an impact on the behavior of people with respect to moving in and out of Zurich or moving around in the city. Using data provided by opendata.swiss we look for patterns and how they are related to different population groups. The results of this analysis could help with future city planning, since living space and its use are crucial topics for most big cities. 
 
 # Research questions
-Where do people move from/to with in the city of Zurich? 
-Are there patterns in these movements and do the differ according to age, gender, civil status, nationality, income? 
-Are moving patterns correlated to the number of school, availability of public transport, supermarkets etc?
-Do these patterns change over the years, in particular did the financial crisis have a noticeable impact? 
-How can our results be used for city planning?
+1) Where do people move from/to or within the city of Zurich? 
+2) Are there patterns in these movements and do the differ according to age, gender, civil status, nationality, income? 
+3) Are moving patterns correlated to the number of school, availability of public transport, supermarkets etc?
+4) Do these patterns change over the years, in particular did the financial crisis have a noticeable impact? 
+5) How can our results be used for city planning?
 
 
 # Dataset
@@ -33,7 +33,7 @@ Carry out time series analyses of data and summary some of main results.
 Identify interesting patterns and shifts of these over times. Compare and link the different data sets. For example link movement patterns to civil status. 
 
 Milestone week 4 (29/11)
-Look for correlations between moving patterns and local amenities (the number of school, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find useful ways for visualising these. 
+Look for correlations between moving patterns and local amenities (the number of school, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find sutiable ways for visualising these. 
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
