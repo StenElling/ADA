@@ -1,5 +1,5 @@
 # ADA
-## Team Members:
+## ONLY TWO Team Members:
 + Sten Elling Jacobsen
 + Christian Luebbe
-+ Maurice Georgi
+
