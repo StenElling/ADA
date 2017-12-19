@@ -1,0 +1,25 @@
+initial decision,final decision,year,age,gender,marital_status,district,leave_option,child_status
+move to ZH,move to ZH,1993,25,M,Single,Unterstrass,True,False
+move within,move within,1994,26,M,Single,Höngg,True,False
+move within,move within,1995,27,M,Married,Oerlikon,True,False
+stay,stay,1996,28,M,Married,Oerlikon,True,False
+stay,stay,1997,0,F,Single,Oerlikon,True,True
+stay,stay,1998,1,F,Single,Oerlikon,True,True
+stay,stay,1999,2,F,Single,Oerlikon,True,True
+stay,stay,2000,3,F,Single,Oerlikon,True,True
+stay,stay,2001,4,F,Single,Oerlikon,True,True
+move within,move within,2002,5,F,Single,Enge,True,True
+stay,stay,2003,6,F,Single,Enge,True,True
+stay,stay,2004,7,F,Single,Enge,True,True
+stay,stay,2005,8,F,Single,Enge,True,True
+stay,stay,2006,9,F,Single,Enge,True,True
+stay,stay,2007,10,F,Single,Enge,True,True
+move within,move within,2008,11,F,Single,Seebach,True,True
+stay,stay,2009,12,F,Single,Seebach,True,True
+stay,stay,2010,13,F,Single,Seebach,True,True
+stay,stay,2011,14,F,Single,Seebach,True,True
+stay,stay,2012,15,F,Single,Seebach,True,True
+stay,stay,2013,16,F,Single,Seebach,True,True
+stay,stay,2014,17,F,Single,Seebach,True,True
+stay,stay,2015,47,M,Married,Seebach,True,False
+stay,stay,2016,48,M,Married,Seebach,True,False
