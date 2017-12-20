@@ -1,8 +1,8 @@
-Write that we have been only two persons for this project
+Notice that we were only two doing this project. Out third group member droped out of the course in beginning of november and he has therefor not contributed to the project. We hope that this we be taken in consideration when grading this project. 
 # Title
-What makes people move house in Zurich?
+Zurich on the move
 # Abstract
-Zurich is Switzerland's biggest city and a financial hub. Hence it attracts people from all over Switzerland and the world. We want to find out, which factors have an impact on the behavior of people with respect to moving in and out of Zurich or moving around in the city. Using data provided by opendata.swiss we look for patterns and how they are related to different population groups. The results of this analysis could help with future city planning, since living space and its use are crucial topics for most big cities. 
+With an overall population of 415,682 (2016) theCity of Zurich is Switzerland’s largest city. Zurichis home to a strong international banking and fi-nance  sector  as  well  as  major  Swiss  and  inter-national corporation.  Zurich has been repeatedlylisted  amongst  the  most  attractive  and  ’livable’cities in the world. As a result Zurich attracts peo-ple from within Switzerland and around the world.The city Zurich is divided into 34 statistical dis-tricts (Stadtquartier) that are grouped into 12 bor-oughs (Kreis).  The district sizes vary from 650 to32,000 residents.Statistical   overviews   for   overall   populationsizes, ratio of foreigners etc.  are easily availableon Wikipedia, see (Subdivisions of Zurich, 2017),or  more  detailed  overviews  are  provided  by  theCity of Zurich, see (Kreise  Quartiere, 2017). Our  project  focus  on  using  the  subdivision  ofthe data into age, gender and marital status to an-alyze individual subgroups such as young profes-sionals or families.   Moreover,  we are interestedin changes in the population and movement dataover time and seeks to identify which districts at-tract some groups of people more than others.
 
 # Research questions
 1) Where do people move from/to or within the city of Zurich? 
@@ -13,27 +13,6 @@ Zurich is Switzerland's biggest city and a financial hub. Hence it attracts peop
 
 
 # Dataset
-1) Annual population count by local district, age group and gender (300,000) 
-2) Annual population count by local district and nationality (75,000) 
-3) Number of people moving to a local district from outside (Swiss canton or country) with gender, age group, civil status (500,000) 
-4) Number of people moving to a local district from within Zurich with gender, age group, civil status (300,000) 
-5) Number of people leaving a local district to outside (Swiss canton or country) with gender, age group, civil status (500,000) 
+For  our  project  we  used  data  sets  on  popula-tion movements available on ”Open Data Z ̈urich”(https://data.stadt-zuerich.ch/dataset).   Three datasets  captured  the  number  of  people  moving  toZurich from outside (Set 1), people moving withinZurich (Set 2), and people leaving Zurich (Set 3).The data in these data sets is subdivided by year(1993-2016), districts (to or from which a movedtook place), age groups (10 year bins), gender andmarital  status  (Single,  Married,  Divorced,  Wid-owed). For Set 1 and Set 3 detailed data on the ori-gin respectively destination of the people is avail-able but was not used.We  compared  this  data  against  the  populationdata  for  Zurich  (Set  4),  which  is  subdivided  byyear, district, age and gender.The  original  data  was  given  in  German.   Wetranslated  the  column  names  and  the  descrip-tors   of   the   main   features   like   marital   status,Swiss/Foreign  to  English.    Geographical  nameswere not translated. Throughout this report we re-fer to the 34 Stadtquartiere as districts, while big-ger units are referred to as Kreis.
 
-These datasets consistently use the same identification codes and names for local areas. Moreover attributes like civil status are fully documented on the opendata pages of the City of Zurich. 
- 
-Data sets with monthly data for the period 2013 to 2017 exist as well. This data does not include civil status, has broader age groups and only distinguishes Swiss people from foreigners. 
- 
-We aim to enrich our data with (un)employment data from statistik.zh.ch . For these sets documentation exists as well. Other data used may be the median income for single people, couples and single parents in order to establish which local districts have a wealthier population and hence may be more affected by the changes due to the financial crisis.  
 
-# A list of internal milestones up until project milestone 2
-Milestone week 1 (6/11)
-Aggregate the data from the website. Analyze and clean each data set. Translate data from German to English. Combine data sets were suitable into large dataframes for subsequent analysis.
-
-Milestone week 2-3 (20/11)
-Carry out time series analyses of data for different subsets of the population (e.g. grouped by age or civil status). Compare and contrast results for different subsets. Summarize some of the main results. 
-Identify interesting patterns and their changes over times. Find suitable external data sets to enrich main data frame carry out more detailed analysis.
-
-Milestone week 4 (29/11)
-Look for correlations between moving patterns and local amenities (the number of schools, availability of public transport, supermarkets etc). Investigate some interesting patterns in more detail and find sutiable ways for visualising these. 
-
-# Questions for TAs
