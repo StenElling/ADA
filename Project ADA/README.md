@@ -1,4 +1,4 @@
-Notice that we were only two doing this project. Out third group member droped out of the course in beginning of november and he has therefor not contributed to the project. We hope that this we be taken in consideration when grading this project. 
+Notice that we were only two doing this project. Our third group member droped out of the course in the beginning of november and he has therefore not contributed to the project beyond the planning. We hope that this will be taken in consideration when grading this project. 
 # Title
 Zurich on the move
 # Abstract
